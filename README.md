@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **4hs4n.haxor@gmail.com**
 
-- 📄 Know about my experiences [ahsan-habib.cf](ahsan-habib.cf)
+- 📄 Know about my experiences [ahsan-habib.cf](https://4hs4n.github.io/profile/)
 
 - ⚡ Fun fact **i think codeing & programming is more then funny**
 
